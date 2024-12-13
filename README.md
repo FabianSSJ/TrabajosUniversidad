@@ -2,3 +2,7 @@ ACTIVIDAD 3.6 GESTION DEL APRENDIZAJE ACTIVIDAD EN GRUPO EJERCICIO 3.py
 MATEO TRIANA
 WILSON MARTINEZ
 FABIAN CAMPOVERDE
+
+
+ACtividad 2.6 GESTION DEL APRENDIZAJE Gestion de la Practica y Experimentacion
+El trabajo se encuentra en PlaylistManager.java
