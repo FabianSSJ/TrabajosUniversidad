@@ -1,1 +1,1 @@
-EN LA CARPETA Actividad 2.8 SE ENCUENTRAN LOS ARCHIVOS CORRESPONDIENTES A ESTA ACTVIDAD
+En la carpeta "Trabajo Grupal" se encuentra la actividad del dia 09/01/2025
