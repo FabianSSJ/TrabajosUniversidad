@@ -18,7 +18,7 @@ def generate_data(samples=1000):
         10 * (1 / (customer_type + 1)) + 
         0.5 * current_load + 
         0.2 * arrival_time + 
-        np.random.normal(0, 5, samples)  # Ruido aleatorio
+        np.random.normal(0, 5, samples) 
     )
     
     return np.column_stack((customer_type, current_load, arrival_time)), wait_time
