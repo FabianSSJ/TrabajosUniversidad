@@ -54,3 +54,14 @@ print("Cola después de encolar:", queue.display())
 
 print("Elemento desencolado:", queue.dequeue())
 print("Cola después de desencolar:", queue.display())
+
+# CASO REAL DE USO
+bank_queue = DoublyLinkedQueue()
+bank_queue.enqueue("Cliente 1")
+bank_queue.enqueue("Cliente 2")
+bank_queue.enqueue("Cliente 3")
+
+print("Clientes en espera:", bank_queue.display())
+
+print("Atendiendo a:", bank_queue.dequeue())  
+print("Clientes en espera despues de atender a uno:", bank_queue.display())
